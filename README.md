@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🏫 I’m currently focused on learning **SOC**, **Digital Forensics**, and secure Deployment of **CI/CD** Pipelines.
+ 🏫 I’m currently focused on learning **SOC** and **Digital Forensics**
 
 ⚡ Fun Fact: _**My cat can walk across the keyboard and get a higher score than me...**_
 
