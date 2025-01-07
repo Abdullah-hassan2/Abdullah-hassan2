@@ -44,15 +44,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,bash,python,cpp" />
 </div>
 
-<div align="center">
-  <h3>Language Proficiency</h3>
-  <p><b>Bash:</b> 80%</p>
-  <p><b>HTML:</b> 90%</p>
-  <p><b>CSS:</b> 85%</p>
-  <p><b>Python:</b> 75%</p>
-  <p><b>C++:</b> 70%</p>
-</div>
-
 <br/>
 <hr/>
 
@@ -72,7 +63,6 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Abdullah-hassan2&show_icons=true&theme=highcontrast&title_color=38e099&icon_color=f2ff00">
   <br>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-hassan2&theme=highcontrast&title_color=38e099&langs_count=5&layout=compact">
 </p>
 
 <hr/>
