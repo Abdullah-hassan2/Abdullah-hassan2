@@ -12,7 +12,7 @@
  
  🏫 I’m currently focused on learning **SOC** and **Digital Forensics**.
 
-⚡ Fun Fact: _**Henry Bait likes to bait people.**_
+⚡ Fun Fact: _**Henry Bait is a master of harmless tricks that make things exciting**_
 
  </div>
  
