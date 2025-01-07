@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🏫 I’m currently focused on learning **SOC** and **Digital Forensics**.
+ 🏫 I’m currently focused on learning **SOC** and **Digital Forensics**
 
-⚡ Fun Fact: _**Henry Bait is a master of harmless tricks that make things exciting.**_
+⚡ Fun Fact: _**Henry Bait is a master of harmless tricks that make things exciting**_
 
  </div>
  
@@ -37,7 +37,7 @@
 <h2 align="center">Languages & Tools 👨🏻‍🔬</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,cpp,bash,python,html,css" />
+    <img src="https://skillicons.dev/icons?i=html,css,bash,python,cpp" />
     </br>
     <img src="https://skillicons.dev/icons?i=linux,vscode,docker,c" />
 </div>
@@ -61,7 +61,7 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Abdullah-hassan2&show_icons=true&theme=highcontrast&title_color=38e099&icon_color=f2ff00">
   <br>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-hassan2&theme=highcontrast&title_color=38e099">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-hassan2&theme=highcontrast&title_color=38e099&langs_count=5&layout=compact">
 </p>
 
 <hr/>
