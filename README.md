@@ -12,7 +12,7 @@
  
  🏫 I’m currently focused on learning **SOC** and **Digital Forensics**.
 
-⚡ Fun Fact: _**Henry Bait is a master of harmless tricks that make things exciting**_
+⚡ Fun Fact: _**Henry Bait is a master of harmless tricks that make things exciting.**_
 
  </div>
  
@@ -37,7 +37,7 @@
 <h2 align="center">Languages & Tools 👨🏻‍🔬</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,cpp,bash,python,javascript,html,css" />
+    <img src="https://skillicons.dev/icons?i=git,github,cpp,bash,python,html,css" />
     </br>
     <img src="https://skillicons.dev/icons?i=linux,vscode,docker,c" />
 </div>
@@ -68,12 +68,8 @@
 
 <h2 align="center">My CTF Stats 🚩</h2>
 
-<p align = "center">
-  <img src="assets/tryhackme.png" alt="TryHackMe">
-</p>
-
 <div align="center">
   <a href="https://tryhackme.com/p/henrybait">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/henrybait.png" alt="TryHackMe Badge">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/H3NRY.B41T.png" alt="TryHackMe Badge">
   </a>
 </div>
