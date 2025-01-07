@@ -8,8 +8,12 @@
 
 <br/>
 
+
 <div align="center">
- 🏫 I’m currently focused on learning **SOC** and **Digital Forensics**
+
+🏫 I’m currently focused on learning **_SOC_** and **_Digital Forensics_**
+
+
 
 ⚡ Fun Fact: _**Henry Bait is a master of harmless tricks that make things exciting**_
 </div>
