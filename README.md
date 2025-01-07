@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🏫 I’m currently focused on learning **SOC** and **Digital Forensics**
+ 🏫 I’m currently focused on learning **SOC**, **Digital Forensics**, and secure Deployment of **CI/CD** Pipelines.
 
-⚡ Fun Fact: _**My cat can walk across the keyboard and get a higher score than me...**_
+⚡ Fun Fact: _**Henry Bait likes to bait people.**_
 
  </div>
  
@@ -27,9 +27,6 @@
   <a href="https://www.instagram.com/henry_bait_/" target="_blank">
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:abdullah.hassan@example.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
 </div>
 
  <p align="center"> <a href="https://www.github.com/Abdullah-hassan2" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/henry_bait_/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: none)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/abdullah-hassan-9868502b2/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
@@ -42,7 +39,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,github,cpp,bash,python,javascript,html,css" />
     </br>
-    <img src="https://skillicons.dev/icons?i=linux,vscode,docker,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=linux,vscode,docker,c" />
 </div>
 
 <br/>
@@ -76,5 +73,7 @@
 </p>
 
 <div align="center">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3213291" style='border:none;'></iframe>
+  <a href="https://tryhackme.com/p/henrybait">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/henrybait.png" alt="TryHackMe Badge">
+  </a>
 </div>
