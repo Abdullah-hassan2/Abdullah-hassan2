@@ -9,15 +9,12 @@
 <br/>
 
 <div align="center">
- 
  🏫 I’m currently focused on learning **SOC** and **Digital Forensics**
 
 ⚡ Fun Fact: _**Henry Bait is a master of harmless tricks that make things exciting**_
+</div>
 
- </div>
- 
-<div align="center"> 
-
+<div align="center">
   <a href="https://github.com/Abdullah-hassan2" target="_blank">
      <img src="https://img.shields.io/badge/GitHub-189b63?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
@@ -29,17 +26,27 @@
   </a>
 </div>
 
- <p align="center"> <a href="https://www.github.com/Abdullah-hassan2" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/henry_bait_/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: none)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/abdullah-hassan-9868502b2/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
+<p align="center"> 
+  <a href="https://www.github.com/Abdullah-hassan2" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
+  <a href="http://www.instagram.com/henry_bait_/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: none)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> 
+  <a href="https://www.linkedin.com/in/abdullah-hassan-9868502b2/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
 </p>
 
- <hr/>
- 
+<hr/>
+
 <h2 align="center">Languages & Tools 👨🏻‍🔬</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bash,python,cpp" />
-    </br>
-    <img src="https://skillicons.dev/icons?i=linux,vscode,docker,c" />
+</div>
+
+<div align="center">
+  <h3>Language Proficiency</h3>
+  <p><b>Bash:</b> 80%</p>
+  <p><b>HTML:</b> 90%</p>
+  <p><b>CSS:</b> 85%</p>
+  <p><b>Python:</b> 75%</p>
+  <p><b>C++:</b> 70%</p>
 </div>
 
 <br/>
